@@ -1,7 +1,5 @@
 # Flight Fare Prediction
 
-- LinkedIn [Hema Kalyan Murapaka](https://www.linkedin.com/in/hemakalyan/)
-- Medium [KalyanMurapaka274](https://medium.com/@kalyanmurapaka274)
 
 ## About The Project
 
@@ -34,7 +32,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone https://github.com/KalyanMurapaka45/Flight-Fare-Prediction.git
+    
      ```
 
 2. **Create a Virtual Environment** (Optional but recommended)
@@ -110,9 +108,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Hema Kalyan Murapaka - [@kalyanmurapaka274@gmail.com](kalyanmurapaka274@gmail.com)
+Anjaneya verma - [anjaneyaverma.official@gmail.com](anjaneyaverma.official@gmail.com)
 
 
 ## Acknowledgements
 
 We'd like to extend our gratitude to all individuals and organizations who have played a role in the development and success of this project. Your support, whether through contributions, inspiration, or encouragement, has been invaluable. Thank you for being a part of our journey.
+
